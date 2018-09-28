@@ -1,0 +1,29 @@
+{
+  "name": "test-socket-indoor-location-emitter",
+  "version": "1.0.0",
+  "description": "Node.js test server to emulate an Indoor Location Emitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndoorLocation/test-socket-indoor-location-emitter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IndoorLocation/test-socket-indoor-location-emitter/issues"
+  },
+  "homepage": "https://github.com/IndoorLocation/test-socket-indoor-location-emitter#readme",
+  "dependencies": {
+    "async": "2.6.1",
+    "body-parser": "1.18.3",
+    "chalk": "2.4.1",
+    "express": "4.16.3",
+    "glob": "7.1.3",
+    "lodash": "4.17.11",
+    "request": "2.88.0",
+    "socket.io": "2.1.1"
+  }
+}
